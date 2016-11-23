@@ -1,2 +1,4 @@
 # Benchmark-Universe
 Benchmark Universe is a learning management system (LMS) that enables teachers to create bookshelves full of engaging ebooks in their libraries, provide students with reading assignments and assessments with a click of the mouse, blend classroom instruction with interactive resources, and more. Students benefit from using Benchmark Universe, too!. Students can easily view and work on their reading assignments, write, and share book reviews with their teachers and classmates and perform other learning tasks. At Benchmark Education, we believe that building literacy is a partnership and collaborative effort among teachers, students and parents.
+
+We at Benchmark Education Company are focused on continuing our tradition of developing the highest-quality curriculum resources for teachers and students, and we are proud to offer programs and products that are applicable in any teaching and learning environment."
